@@ -11,7 +11,7 @@ public class codesofttask1
         System.out.println("Welcome to the Guess the Number game!");
 
         while (true) {
-            // Step 1: Generate a random number within the specified range
+
             int secretNumber = random.nextInt(100) + 1;
 
             // Additional details
